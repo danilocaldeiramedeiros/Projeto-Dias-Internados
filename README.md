@@ -13,4 +13,4 @@ Desta forma o internado e a sua família conseguiriam estimar os custos quem pod
  
 ## 🛠 Tecnologias Utilizadas
 - Linguagem: Python
-- Framework: scikit-learn, scipy, joblib, matplotlib, seaborn, pandas, numpy
+- Ferramentas: scikit-learn, scipy, joblib, matplotlib, seaborn, pandas, numpy
