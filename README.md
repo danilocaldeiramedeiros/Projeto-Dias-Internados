@@ -3,7 +3,7 @@
 ## 👥 Integrantes
 - Aluno: Danilo Caldeira de Medeiros
 - Orientador: Gylles de Assis Furtado
-- Curso: Big Data e Machine Learning SESI FATEG GO
+- Curso: Pós-graduação Lato Sensu - Mba em Big Data e Machine Learning SESI SENAI - EAD
 
  
 ## 📘 Descrição do Projeto
